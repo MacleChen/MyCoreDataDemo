@@ -1,0 +1,18 @@
+//
+//  MyCoreDataDemo_PrefixHeader.pch
+//  MyCoreDataDemo
+//
+//  Created by 陈帆 on 2019/11/6.
+//  Copyright © 2019 陈帆. All rights reserved.
+//
+
+#ifndef MyCoreDataDemo_PrefixHeader_pch
+#define MyCoreDataDemo_PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import <Masonry.h>
+#import <SDWebImage/SDWebImage.h>
+
+#endif /* MyCoreDataDemo_PrefixHeader_pch */
